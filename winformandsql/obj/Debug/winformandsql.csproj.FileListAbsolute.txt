@@ -1,0 +1,10 @@
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\bin\Debug\winformandsql.exe.config
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\bin\Debug\winformandsql.exe
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\bin\Debug\winformandsql.pdb
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.csproj.AssemblyReference.cache
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.Form1.resources
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.Properties.Resources.resources
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.csproj.GenerateResource.cache
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.csproj.CoreCompileInputs.cache
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.exe
+T:\Proqramlar\VisualStudio\Taleh\winformandsql\obj\Debug\winformandsql.pdb
